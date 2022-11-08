@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usman Ahmed Syed</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Usman Ahmed Syed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Usman Ahmed Syed</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Optimization and Control</title>
+      <link>http://localhost:1313/project/tracking-error-online-optimization/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tracking-error-online-optimization/</guid>
+      <description>&lt;h3&gt;Tracking Error Analysis of Online Optimization Algorithms:&lt;/h3&gt;
+&lt;p&gt;This work covers the development of a unified framework for analyzing the tracking error (the norm of the difference between the optimal solution and the iterate) of first-order online optimization methods in a variety of settings. Specifically, we leverage quadratic constraints to formulate sequential semidefinite programs (SDPs) whose feasible points lead to tracking error bounds of various online optimization methods.&lt;/p&gt;
+&lt;h3&gt;Online Non-stochastic Control vs. Retrospective Cost Adaptive Control :&lt;/h3&gt;
+&lt;p&gt;This work is focused on the study of the online optimization for the design of adaptive controllers in the presence of unknown disturbances and a similar control theoretic framework called Retrospective Cost Adaptive Control (RCAC). We analyze the connections between online non-stochastic control and RCAC in the context of controlling linear dynamical systems subject to unknown non-stochastic disturbances.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exact behavior of TD learning algorithms</title>
+      <link>http://localhost:1313/project/td-learning/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/td-learning/</guid>
+      <description>&lt;p&gt;This work provides a unified analysis of temporal difference learning algorithms with linear function approximators by exploiting their connections to Markov jump linear systems (MJLS). We tailor the MJLS theory developed in the control community to characterize the exact behaviors of the first and second order moments of a large family of temporal difference learning algorithms. For both the IID and Markov noise cases, we show that the evolution of some augmented versions of the mean and covariance matrix of the TD estimation error exactly follows the trajectory of a deterministic linear time-invariant (LTI) dynamical system. Applying the well-known LTI system theory, we obtain closed-form expressions for the mean and covariance matrix of the TD estimation error at any time step. We provide a tight matrix spectral radius condition to guarantee the convergence of the covariance matrix of the TD estimation error, and perform a perturbation analysis to characterize the dependence of the TD behaviors on learning rate. For the IID case, we provide an exact formula characterizing how the mean and covariance matrix of the TD estimation error converge to the steady state values at a linear rate. For the Markov case, we use our formulas to explain how the behaviors of TD learning algorithms are affected by learning rate and the underlying Markov chain. For both cases, upper and lower bounds for the mean square TD error are provided. The mean square TD error is shown to converge linearly to an exact limit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing the Exact Behaviors of Temporal Difference Learning Algorithms Using Markov Jump Linear System Theory</title>
+      <link>http://localhost:1313/publication/hu-2019-characterizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-2019-characterizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory planning for a bat-like flapping wing robot</title>
+      <link>http://localhost:1313/publication/hoff-2019-trajectory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hoff-2019-trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Describing Robotic Bat Flight with Stable Periodic Orbits</title>
+      <link>http://localhost:1313/publication/alireza-2017-describing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alireza-2017-describing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Rousettus Aegyptiacus (bat) Landing to Robotic Landing: Regulation of CG-CP Distance Using a Nonlinear Closed-Loop Feedback</title>
+      <link>http://localhost:1313/publication/syed-2017-rousettus/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/syed-2017-rousettus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance assessment of Kinect as a sensor for pothole imaging and metrology</title>
+      <link>http://localhost:1313/publication/kamal-2016-performance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kamal-2016-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio Inspired Flight Control</title>
+      <link>http://localhost:1313/project/allice-mav/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allice-mav/</guid>
+      <description>&lt;p&gt;This work explores the use of center of gravity reallocation for the control of robotic systems. In particular we attempt to use the mechanism employed by biological bats in their landing maneuvers with a micro aerial vehicle (MAV) called Allice. Allice is capable of adjusting the position of its center of gravity (CG) with respect to the center of pressure (CP) using nonlinear closed-loop feedback.  In the case of flying machines, CoM reallocation leads to the change in CG-CP distance of the system. In the case of robots with no aerodynamic surfaces, CoM reallocation leads to manipulating the torques produced by numerous forces acting in the system. For the control of robotic systems, we employ nonlinear control techniques. This nonlinear control law, which is based on the method of input-output feedback linearization, enables attitude regulations through CoM reallocation in the system. To design the model-based nonlinear controller, the Lagrangian dynamics of the system are considered, in which the aerodynamic coefficients of lift and drag are obtained experimentally. This work covers the design, system identification and nonlinear controller design. The performance of the proposed control architecture is validated by conducting several flight experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pothole 3D Imaging and Analysis</title>
+      <link>http://localhost:1313/project/pavement-imaging/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pavement-imaging/</guid>
+      <description>&lt;p&gt;Potholes are a frequent occurrence in many parts of highway
+networks and are a source of irritation to drivers and a key concern
+for road maintenance authorities. These localised defected
+areas also reduce ride quality and potentially create a dangerous
+driving condition. This work presents a performance analysis of Kinect as a sensor for pothole imaging and metrology. Depth images of paved surfaces are collected from concrete and asphalt roads using this Kinect. Three-dimensional (3D)
+meshes are generated for a variety of pothole configurations in order to visualise and to calculate their
+different metrological features. The sensor is benchmarked using a test-rig with pothole-like depressions
+or artificial potholes of known dimensions to evaluate sensor performance under different real-life imaging
+conditions, such as through the media of clear, muddy and oily water. This work suggests a low cost solution for estimating the cost of road and pavement maintenance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cellular Automata Based Real-Time Path-Planning for Mobile Robots</title>
+      <link>http://localhost:1313/publication/syed-2014-cellular/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/syed-2014-cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Autowave Pulse Coupled Neural Network (GAPCNN) based real time path planning and an obstacle avoidance scheme for mobile robots</title>
+      <link>http://localhost:1313/publication/syed-2014-guided/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/syed-2014-guided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guided autowave PCNN for improved real time path planning</title>
+      <link>http://localhost:1313/publication/ahmed-2013-guided/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2013-guided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metrology and visualization of potholes using the microsoft kinect sensor</title>
+      <link>http://localhost:1313/publication/moazzam-2013-metrology/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moazzam-2013-metrology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular automata based real time path planning for mobile robots</title>
+      <link>http://localhost:1313/publication/ahmed-2012-cellular/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2012-cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile robot path planning in dynamic environments</title>
+      <link>http://localhost:1313/project/motion-planning/</link>
+      <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/motion-planning/</guid>
+      <description>&lt;p&gt;Real time path planning for mobile robots requires fast convergence to optimal paths. Most rapid collision free path planning algorithms do not guarantee the optimality of the path. In this project we studied Neural Network and Cellular Automate based approachs for mobile robot path planning. Simulation studies and experiments are conducted in both static and dynamic environments which verifies that the proposed algorithms generates robust and time efficient path planning schemes for finding optimal paths. Additionally, performance comparisons with popular path planning algorithms such as A*, Dijkstra’s and D* is also covered in this work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A self-organizing neural scheme for road detection in varied environments</title>
+      <link>http://localhost:1313/publication/malik-2011-self/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/malik-2011-self/</guid>
+      <description>&lt;p&gt;Detection of a drivable space is a key step in the
+autonomous control of a vehicle. In this paper we propose an
+adaptive vision based algorithm for road detection in diverse
+outdoor conditions. Our novel approach employs feature based
+classification and uses the Kohonen Self-Organizing Map
+(SOM) for the purpose of road detection. The robustness of the
+algorithm lies in the unique ability of SOM to organize
+information while learning diverse inputs. Features used for the
+training and testing of SOM are identified. The proposed
+method is capable of working with structured as well as
+unstructured roads and noisy environments that may be
+encountered by an intelligent vehicle. The proposed technique
+is extensively compared with the k-Nearest Neighbor (KNN)
+algorithm. Results show that SOM outperforms KNN in
+classification consistency and is independent to the lighting
+conditions while taking comparable classification time which
+shows that the network can also be used as an online learning
+architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sparsed potential-PCNN for real time path planning and indoor navigation scheme for mobile robots</title>
+      <link>http://localhost:1313/publication/ahmed-2011-sparsed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2011-sparsed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

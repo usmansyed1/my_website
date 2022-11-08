@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D pavement distress imaging | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/tag/3d-pavement-distress-imaging/</link>
+      <atom:link href="http://localhost:1313/tag/3d-pavement-distress-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D pavement distress imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>3D pavement distress imaging</title>
+      <link>http://localhost:1313/tag/3d-pavement-distress-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Performance assessment of Kinect as a sensor for pothole imaging and metrology</title>
+      <link>http://localhost:1313/publication/kamal-2016-performance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kamal-2016-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pothole 3D Imaging and Analysis</title>
+      <link>http://localhost:1313/project/pavement-imaging/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pavement-imaging/</guid>
+      <description>&lt;p&gt;Potholes are a frequent occurrence in many parts of highway
+networks and are a source of irritation to drivers and a key concern
+for road maintenance authorities. These localised defected
+areas also reduce ride quality and potentially create a dangerous
+driving condition. This work presents a performance analysis of Kinect as a sensor for pothole imaging and metrology. Depth images of paved surfaces are collected from concrete and asphalt roads using this Kinect. Three-dimensional (3D)
+meshes are generated for a variety of pothole configurations in order to visualise and to calculate their
+different metrological features. The sensor is benchmarked using a test-rig with pothole-like depressions
+or artificial potholes of known dimensions to evaluate sensor performance under different real-life imaging
+conditions, such as through the media of clear, muddy and oily water. This work suggests a low cost solution for estimating the cost of road and pavement maintenance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metrology and visualization of potholes using the microsoft kinect sensor</title>
+      <link>http://localhost:1313/publication/moazzam-2013-metrology/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moazzam-2013-metrology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syed Usman Ahmed | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/authors/syed-usman-ahmed/</link>
+      <atom:link href="http://localhost:1313/authors/syed-usman-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Syed Usman Ahmed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Syed Usman Ahmed</title>
+      <link>http://localhost:1313/authors/syed-usman-ahmed/</link>
+    </image>
+    
+    <item>
+      <title>Describing Robotic Bat Flight with Stable Periodic Orbits</title>
+      <link>http://localhost:1313/publication/alireza-2017-describing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alireza-2017-describing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A guided autowave PCNN for improved real time path planning</title>
+      <link>http://localhost:1313/publication/ahmed-2013-guided/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2013-guided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular automata based real time path planning for mobile robots</title>
+      <link>http://localhost:1313/publication/ahmed-2012-cellular/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2012-cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A self-organizing neural scheme for road detection in varied environments</title>
+      <link>http://localhost:1313/publication/malik-2011-self/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/malik-2011-self/</guid>
+      <description>&lt;p&gt;Detection of a drivable space is a key step in the
+autonomous control of a vehicle. In this paper we propose an
+adaptive vision based algorithm for road detection in diverse
+outdoor conditions. Our novel approach employs feature based
+classification and uses the Kohonen Self-Organizing Map
+(SOM) for the purpose of road detection. The robustness of the
+algorithm lies in the unique ability of SOM to organize
+information while learning diverse inputs. Features used for the
+training and testing of SOM are identified. The proposed
+method is capable of working with structured as well as
+unstructured roads and noisy environments that may be
+encountered by an intelligent vehicle. The proposed technique
+is extensively compared with the k-Nearest Neighbor (KNN)
+algorithm. Results show that SOM outperforms KNN in
+classification consistency and is independent to the lighting
+conditions while taking comparable classification time which
+shows that the network can also be used as an online learning
+architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

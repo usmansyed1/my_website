@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mujib Rahman | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/authors/mujib-rahman/</link>
+      <atom:link href="http://localhost:1313/authors/mujib-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mujib Rahman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Mujib Rahman</title>
+      <link>http://localhost:1313/authors/mujib-rahman/</link>
+    </image>
+    
+    <item>
+      <title>Performance assessment of Kinect as a sensor for pothole imaging and metrology</title>
+      <link>http://localhost:1313/publication/kamal-2016-performance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kamal-2016-performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

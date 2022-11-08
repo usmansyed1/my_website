@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Hu | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/authors/bin-hu/</link>
+      <atom:link href="http://localhost:1313/authors/bin-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Hu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Bin Hu</title>
+      <link>http://localhost:1313/authors/bin-hu/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing the Exact Behaviors of Temporal Difference Learning Algorithms Using Markov Jump Linear System Theory</title>
+      <link>http://localhost:1313/publication/hu-2019-characterizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-2019-characterizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

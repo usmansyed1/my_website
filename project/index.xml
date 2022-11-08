@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Online Optimization and Control</title>
+      <link>http://localhost:1313/project/tracking-error-online-optimization/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tracking-error-online-optimization/</guid>
+      <description>&lt;h3&gt;Tracking Error Analysis of Online Optimization Algorithms:&lt;/h3&gt;
+&lt;p&gt;This work covers the development of a unified framework for analyzing the tracking error (the norm of the difference between the optimal solution and the iterate) of first-order online optimization methods in a variety of settings. Specifically, we leverage quadratic constraints to formulate sequential semidefinite programs (SDPs) whose feasible points lead to tracking error bounds of various online optimization methods.&lt;/p&gt;
+&lt;h3&gt;Online Non-stochastic Control vs. Retrospective Cost Adaptive Control :&lt;/h3&gt;
+&lt;p&gt;This work is focused on the study of the online optimization for the design of adaptive controllers in the presence of unknown disturbances and a similar control theoretic framework called Retrospective Cost Adaptive Control (RCAC). We analyze the connections between online non-stochastic control and RCAC in the context of controlling linear dynamical systems subject to unknown non-stochastic disturbances.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exact behavior of TD learning algorithms</title>
+      <link>http://localhost:1313/project/td-learning/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/td-learning/</guid>
+      <description>&lt;p&gt;This work provides a unified analysis of temporal difference learning algorithms with linear function approximators by exploiting their connections to Markov jump linear systems (MJLS). We tailor the MJLS theory developed in the control community to characterize the exact behaviors of the first and second order moments of a large family of temporal difference learning algorithms. For both the IID and Markov noise cases, we show that the evolution of some augmented versions of the mean and covariance matrix of the TD estimation error exactly follows the trajectory of a deterministic linear time-invariant (LTI) dynamical system. Applying the well-known LTI system theory, we obtain closed-form expressions for the mean and covariance matrix of the TD estimation error at any time step. We provide a tight matrix spectral radius condition to guarantee the convergence of the covariance matrix of the TD estimation error, and perform a perturbation analysis to characterize the dependence of the TD behaviors on learning rate. For the IID case, we provide an exact formula characterizing how the mean and covariance matrix of the TD estimation error converge to the steady state values at a linear rate. For the Markov case, we use our formulas to explain how the behaviors of TD learning algorithms are affected by learning rate and the underlying Markov chain. For both cases, upper and lower bounds for the mean square TD error are provided. The mean square TD error is shown to converge linearly to an exact limit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bio Inspired Flight Control</title>
+      <link>http://localhost:1313/project/allice-mav/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allice-mav/</guid>
+      <description>&lt;p&gt;This work explores the use of center of gravity reallocation for the control of robotic systems. In particular we attempt to use the mechanism employed by biological bats in their landing maneuvers with a micro aerial vehicle (MAV) called Allice. Allice is capable of adjusting the position of its center of gravity (CG) with respect to the center of pressure (CP) using nonlinear closed-loop feedback.  In the case of flying machines, CoM reallocation leads to the change in CG-CP distance of the system. In the case of robots with no aerodynamic surfaces, CoM reallocation leads to manipulating the torques produced by numerous forces acting in the system. For the control of robotic systems, we employ nonlinear control techniques. This nonlinear control law, which is based on the method of input-output feedback linearization, enables attitude regulations through CoM reallocation in the system. To design the model-based nonlinear controller, the Lagrangian dynamics of the system are considered, in which the aerodynamic coefficients of lift and drag are obtained experimentally. This work covers the design, system identification and nonlinear controller design. The performance of the proposed control architecture is validated by conducting several flight experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pothole 3D Imaging and Analysis</title>
+      <link>http://localhost:1313/project/pavement-imaging/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pavement-imaging/</guid>
+      <description>&lt;p&gt;Potholes are a frequent occurrence in many parts of highway
+networks and are a source of irritation to drivers and a key concern
+for road maintenance authorities. These localised defected
+areas also reduce ride quality and potentially create a dangerous
+driving condition. This work presents a performance analysis of Kinect as a sensor for pothole imaging and metrology. Depth images of paved surfaces are collected from concrete and asphalt roads using this Kinect. Three-dimensional (3D)
+meshes are generated for a variety of pothole configurations in order to visualise and to calculate their
+different metrological features. The sensor is benchmarked using a test-rig with pothole-like depressions
+or artificial potholes of known dimensions to evaluate sensor performance under different real-life imaging
+conditions, such as through the media of clear, muddy and oily water. This work suggests a low cost solution for estimating the cost of road and pavement maintenance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile robot path planning in dynamic environments</title>
+      <link>http://localhost:1313/project/motion-planning/</link>
+      <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/motion-planning/</guid>
+      <description>&lt;p&gt;Real time path planning for mobile robots requires fast convergence to optimal paths. Most rapid collision free path planning algorithms do not guarantee the optimality of the path. In this project we studied Neural Network and Cellular Automate based approachs for mobile robot path planning. Simulation studies and experiments are conducted in both static and dynamic environments which verifies that the proposed algorithms generates robust and time efficient path planning schemes for finding optimal paths. Additionally, performance comparisons with popular path planning algorithms such as A*, Dijkstra’s and D* is also covered in this work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

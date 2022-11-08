@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio Inspired Flight | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/tag/bio-inspired-flight/</link>
+      <atom:link href="http://localhost:1313/tag/bio-inspired-flight/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bio Inspired Flight</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Bio Inspired Flight</title>
+      <link>http://localhost:1313/tag/bio-inspired-flight/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory planning for a bat-like flapping wing robot</title>
+      <link>http://localhost:1313/publication/hoff-2019-trajectory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hoff-2019-trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Describing Robotic Bat Flight with Stable Periodic Orbits</title>
+      <link>http://localhost:1313/publication/alireza-2017-describing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alireza-2017-describing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Rousettus Aegyptiacus (bat) Landing to Robotic Landing: Regulation of CG-CP Distance Using a Nonlinear Closed-Loop Feedback</title>
+      <link>http://localhost:1313/publication/syed-2017-rousettus/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/syed-2017-rousettus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio Inspired Flight Control</title>
+      <link>http://localhost:1313/project/allice-mav/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allice-mav/</guid>
+      <description>&lt;p&gt;This work explores the use of center of gravity reallocation for the control of robotic systems. In particular we attempt to use the mechanism employed by biological bats in their landing maneuvers with a micro aerial vehicle (MAV) called Allice. Allice is capable of adjusting the position of its center of gravity (CG) with respect to the center of pressure (CP) using nonlinear closed-loop feedback.  In the case of flying machines, CoM reallocation leads to the change in CG-CP distance of the system. In the case of robots with no aerodynamic surfaces, CoM reallocation leads to manipulating the torques produced by numerous forces acting in the system. For the control of robotic systems, we employ nonlinear control techniques. This nonlinear control law, which is based on the method of input-output feedback linearization, enables attitude regulations through CoM reallocation in the system. To design the model-based nonlinear controller, the Lagrangian dynamics of the system are considered, in which the aerodynamic coefficients of lift and drag are obtained experimentally. This work covers the design, system identification and nonlinear controller design. The performance of the proposed control architecture is validated by conducting several flight experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

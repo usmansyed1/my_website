@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TD learning | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/tag/td-learning/</link>
+      <atom:link href="http://localhost:1313/tag/td-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>TD learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>TD learning</title>
+      <link>http://localhost:1313/tag/td-learning/</link>
+    </image>
+    
+    <item>
+      <title>Exact behavior of TD learning algorithms</title>
+      <link>http://localhost:1313/project/td-learning/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/td-learning/</guid>
+      <description>&lt;p&gt;This work provides a unified analysis of temporal difference learning algorithms with linear function approximators by exploiting their connections to Markov jump linear systems (MJLS). We tailor the MJLS theory developed in the control community to characterize the exact behaviors of the first and second order moments of a large family of temporal difference learning algorithms. For both the IID and Markov noise cases, we show that the evolution of some augmented versions of the mean and covariance matrix of the TD estimation error exactly follows the trajectory of a deterministic linear time-invariant (LTI) dynamical system. Applying the well-known LTI system theory, we obtain closed-form expressions for the mean and covariance matrix of the TD estimation error at any time step. We provide a tight matrix spectral radius condition to guarantee the convergence of the covariance matrix of the TD estimation error, and perform a perturbation analysis to characterize the dependence of the TD behaviors on learning rate. For the IID case, we provide an exact formula characterizing how the mean and covariance matrix of the TD estimation error converge to the steady state values at a linear rate. For the Markov case, we use our formulas to explain how the behaviors of TD learning algorithms are affected by learning rate and the underlying Markov chain. For both cases, upper and lower bounds for the mean square TD error are provided. The mean square TD error is shown to converge linearly to an exact limit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing the Exact Behaviors of Temporal Difference Learning Algorithms Using Markov Jump Linear System Theory</title>
+      <link>http://localhost:1313/publication/hu-2019-characterizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-2019-characterizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

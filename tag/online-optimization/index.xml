@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Optimization | Usman Ahmed Syed</title>
+    <link>http://localhost:1313/tag/online-optimization/</link>
+      <atom:link href="http://localhost:1313/tag/online-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huca9c1a9124960d454ec2226660feb636_9351747_512x512_fill_lanczos_center_3.png</url>
+      <title>Online Optimization</title>
+      <link>http://localhost:1313/tag/online-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Online Optimization and Control</title>
+      <link>http://localhost:1313/project/tracking-error-online-optimization/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tracking-error-online-optimization/</guid>
+      <description>&lt;h3&gt;Tracking Error Analysis of Online Optimization Algorithms:&lt;/h3&gt;
+&lt;p&gt;This work covers the development of a unified framework for analyzing the tracking error (the norm of the difference between the optimal solution and the iterate) of first-order online optimization methods in a variety of settings. Specifically, we leverage quadratic constraints to formulate sequential semidefinite programs (SDPs) whose feasible points lead to tracking error bounds of various online optimization methods.&lt;/p&gt;
+&lt;h3&gt;Online Non-stochastic Control vs. Retrospective Cost Adaptive Control :&lt;/h3&gt;
+&lt;p&gt;This work is focused on the study of the online optimization for the design of adaptive controllers in the presence of unknown disturbances and a similar control theoretic framework called Retrospective Cost Adaptive Control (RCAC). We analyze the connections between online non-stochastic control and RCAC in the context of controlling linear dynamical systems subject to unknown non-stochastic disturbances.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
